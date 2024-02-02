@@ -1,3 +1,5 @@
 *.zip
-*.png
-*.jpg
+test/*
+train/*
+val/*
+etl_output/*
