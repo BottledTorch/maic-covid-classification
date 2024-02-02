@@ -3,3 +3,6 @@ test/*
 train/*
 val/*
 etl_output/*
+*.jpg
+*.jpeg
+*.png
