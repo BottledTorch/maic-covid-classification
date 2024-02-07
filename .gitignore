@@ -6,3 +6,4 @@ etl_output/*
 *.jpg
 *.jpeg
 *.png
+*.npy
